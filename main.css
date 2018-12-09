@@ -1,0 +1,11 @@
+Body {
+background: #999;
+font-family: monospace;
+}
+
+h1 {color: #888}
+h2 {color: #333}
+p {background: #666;
+   color: white;
+ padding: 20px;
+}
